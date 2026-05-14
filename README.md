@@ -24,4 +24,4 @@ Abre una terminal en la carpeta del proyecto y ejecuta:
 ```bash
 pip install numpy matplotlib seaborn
 ```
-Si usas Jupyter Notebook o Google Colab no es nesesario instalar las librerias puesto que ya las tren por defecto.
+Si usas Jupyter Notebook o Google Colab no es nesesario instalar las librerias puesto que ya vienen por defecto.
